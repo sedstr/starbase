@@ -9,7 +9,7 @@ To use the .fbe files:
 7. Select the most recent
 8. Save as a new blueprint
 
-Catapilla V2 has a lot more bolts
+Caterpilla V2 has a lot more bolts
 
 This is my original work, but I require no attribution or thanks.
 
